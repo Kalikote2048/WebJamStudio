@@ -1,2 +1,2 @@
-const playlist = () => console.log("DJ Kalikote's Playlist: Beat Drop");
+const playlist = () => console.log("BeatMaster Alex's Playlist: Heavy Bass");
 playlist();
